@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1622084007 source:c:\users\david alejandro\documents\programación\progra.estruct\proyecto final\proyecto banco vaad\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+
